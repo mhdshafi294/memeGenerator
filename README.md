@@ -1,5 +1,7 @@
 # MEME Generetor
 
+This was a project in the Scrimba course that we really learned alot in it, in was the main project in the third part of React course and it moved us to the level of making interactuve website dealing with events and use states. Also we learned how to use APIs and useEffect hook. It is really a very rich part of the course this third one. Hopw you would like it!
+
 Quick start:
 
 ```
